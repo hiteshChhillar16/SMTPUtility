@@ -1,0 +1,16 @@
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.exe
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.deps.json
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.runtimeconfig.json
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.runtimeconfig.dev.json
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.dll
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\ref\SMTPUtility.dll
+C:\DEV\projects\SMTPUtility\bin\Debug\net5.0\SMTPUtility.pdb
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.csproj.AssemblyReference.cache
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.AssemblyInfoInputs.cache
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.AssemblyInfo.cs
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.csproj.CoreCompileInputs.cache
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.dll
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\ref\SMTPUtility.dll
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.pdb
+C:\DEV\projects\SMTPUtility\obj\Debug\net5.0\SMTPUtility.genruntimeconfig.cache
