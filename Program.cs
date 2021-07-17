@@ -25,11 +25,11 @@ namespace SMTPUtility
             {
                 // Command-line argument must be the SMTP host.
                 try{
-                SmtpClient smtpClient = new SmtpClient("mxdevutl01.mxdev.int");
+                SmtpClient smtpClient = new SmtpClient("hostname");
                 var mailMessage = new MailMessage
                 {
-                    From = new MailAddress("hitesh.test@matrixcare.com",
-                                            "Hitesh " + (char)0xD8 + " Chhillar", System.Text.Encoding.UTF8),
+                    From = new MailAddress("From email address",
+                                            "FirstName " + (char)0xD8 + " LastName", System.Text.Encoding.UTF8),
                     Subject = "subject",
                     Body = "<h1>Hello</h1>",
                     IsBodyHtml = true,
